@@ -49,6 +49,7 @@ Jsx:
 . JavaScript Object
 . Describes current state of component (data/UI-state)
 . State of component can be updated over time
+```
 E.g; Shopping Cart Component 
 {
 	items: [
@@ -72,7 +73,7 @@ E.g; Popup Component
 {
 	showpopup: false
 }
-
+```
 ## How react works?
 we create components in our project for different part of application
 For e.g, we have different components for navbar, search box and footer. 
