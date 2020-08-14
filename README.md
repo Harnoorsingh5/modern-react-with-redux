@@ -85,3 +85,21 @@ Question is how it does this?
 * For e.g there is a change in state of searchbox, then react create a new virtual DOM for that component.
 * Then  it compares it to the old one, and is able to change the actual DOM easily as it knows where the change has to be made.
 
+## babel
+* ES5 is supported by all browsers
+* Greater than ES5 are not really supported by browsers
+* So it is React responsibility to convert the greater version to ES5 using babel
+* babel works automatically when we create react app using npx
+
+## Difference between import and require
+* import - refers to module system ES2015
+* module system is set of rules that define how code can be shared between  js files
+
+* CommonJS module is different set of rules that also governs how code can be shared between  js files
+* In case of commonJS module we use 'require' statement as import stat
+
+## Component?
+![picture](https://github.com/Harnoorsingh5/modern-react-with-redux/blob/master/images/component.png)
+
+## Displaying content with functional componenet!
+![picture](https://github.com/Harnoorsingh5/modern-react-with-redux/blob/master/images/funccomponentex.png)
