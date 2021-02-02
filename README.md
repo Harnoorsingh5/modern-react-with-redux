@@ -101,5 +101,8 @@ Question is how it does this?
 ## Component?
 ![picture](https://github.com/Harnoorsingh5/modern-react-with-redux/blob/master/images/component.png)
 
-## Displaying content with functional componenet!
+## Displaying content into functional component!
 ![picture](https://github.com/Harnoorsingh5/modern-react-with-redux/blob/master/images/funccomponentex.png)
+
+## JSX
+![picture](https://github.com/Harnoorsingh5/modern-react-with-redux/blob/master/images/jsx.png)
